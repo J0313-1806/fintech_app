@@ -1,10 +1,13 @@
 # fintech_app
 
-A new Flutter project.
+A new Flutter project with Adaptive Design.
 
 ## Getting Started
+Application both Mobile and Web.
+With dummy Api data using jsonplaceholder.typicode.com
+Responsive design in web app.
+Financial Application demo (only design).
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
