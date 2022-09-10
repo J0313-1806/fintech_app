@@ -3,10 +3,10 @@
 A new Flutter project with Adaptive Design.
 
 ## Getting Started
-Application both Mobile and Web.
-With dummy Api data using [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
-Responsive design in web app.
-Financial Application demo (only design).
+* Application both Mobile and Web.
+* With dummy Api data using [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
+* Responsive design in web app.
+* Financial Application demo (only design).
 
 
 A few resources to get you started if this is your first Flutter project:
